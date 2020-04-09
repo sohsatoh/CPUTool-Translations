@@ -1,0 +1,34 @@
+{
+    "How CPUTool works" = "CPUToolの動作";
+    "If you set the values to 1.0, it means the max CPU power will be set to 1 percent of the stock state. Run Geekbench with 1 percent to confirm CPUTool works properly. There might be the lag if you set the low values. Please note that the value is MAX POWER, not the average power." = "値を1.0にセットすると、CPU使用率の最大値が、通常値の1パーセントに制限されます。CPUToolが正常に動作しているか確認するには、1パーセントに設定し、Geekbenchを使用してください。低すぎる値を設定するとラグが発生します。設定値はあくまで最大値で、平均値ではないことに注意してください。";
+
+    "Enable" = "有効化";
+    "On some device (such as iPhone XS and above), only CPU control works." = "iPhone XS以上のデバイスなど、一部のデバイスではCPUの設定のみ反映されます。";
+
+    "Normal" = "通常";
+    "Max CPU Power" = "CPUの上限値";
+    "Max GPU Power" = "GPUの上限値";
+
+    "Low Power Mode" = "低電力モード";
+    "CPU Power during LPM" = "CPUの上限値";
+    "GPU Power during LPM" = "GPUの上限値";
+
+    "Others (Respring)" = "その他 (Respring)";
+    "Enable Excluding Apps" = "特定アプリで無効";
+    "Select apps to exclude..." = "無効にするアプリを選択...";
+
+    "Extreme Mode" = "エクストリームモード";
+    "On some device (such as iPhone XS and above), maybe it is a little bit difficult to see the difference. If you cannot see the difference even though you set them to 0.1 and tried ldrestart (or reboot), enable this option. This option multiplies the normal settings' values by 0.1." = "iPhone XS以上のデバイスなど、一部のデバイスでは違いがわかりにくい可能性があります。もし0.1に設定した後、再起動しても数値が反映されない場合、このモードをオンにしてください。このオプションは通常モードの数値を10で割ったものにします。";
+
+    "Report Bugs or Contact" = "連絡先";
+    "Try resetting the settings before contacting me" = "連絡する前に下のボタンから設定のリセットを試してください";
+    "Open Discord" = "Discordを開く";
+    "Twitter" = "Twitter";
+    "Buy me a coffee?" = "寄付は大歓迎です!";
+    "Paypal" = "Paypal";
+
+    "Help translating" = "翻訳を手助けする";
+
+    "Respring" = "Respring";
+    "Reset All Settings" = "すべての設定をリセット";
+}

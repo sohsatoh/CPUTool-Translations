@@ -1,0 +1,34 @@
+{
+  "How CPUTool works" = "How CPUTool works";
+  "If you set the values to 1.0, it means the max CPU power will be set to 1 percent of the stock state. Run Geekbench with 1 percent to confirm CPUTool works properly. There might be the lag if you set the low values. Please note that the value is MAX POWER, not the average power." = "If you set the values to 1.0, it means the max CPU power will be set to 1 percent of the stock state. Run Geekbench with 1 percent to confirm CPUTool works properly. There might be the lag if you set the low values. Please note that the value is MAX POWER, not the average power.";
+
+  "Enable" = "Enable";
+  "On some device (such as iPhone XS and above), only CPU control works." = "On some device (such as iPhone XS and above), only CPU control works.";
+
+  "Normal" = "Normal";
+  "Max CPU Power" = "Max CPU Power";
+  "Max GPU Power" = "Max GPU Power";
+
+  "Low Power Mode" = "Low Power Mode";
+  "CPU Power during LPM" = "CPU Power during LPM";
+  "GPU Power during LPM" = "GPU Power during LPM";
+
+  "Others (Respring)" = "Others (Respring)";
+  "Enable Excluding Apps" = "Enable Excluding Apps";
+  "Select apps to exclude..." = "Select apps to exclude...";
+
+  "Extreme Mode" = "Extreme Mode";
+  "On some device (such as iPhone XS and above), maybe it is a little bit difficult to see the difference. If you cannot see the difference even though you set them to 0.1 and tried ldrestart (or reboot), enable this option. This option multiplies the normal settings' values by 0.1." = "On some device (such as iPhone XS and above), maybe it is a little bit difficult to see the difference. If you cannot see the difference even though you set them to 0.1 and tried ldrestart (or reboot), enable this option. This option multiplies the normal settings' values by 0.1.";
+
+  "Report Bugs or Contact" = "Report Bugs or Contact";
+  "Try resetting the settings before contacting me" = "Try resetting the settings before contacting me";
+  "Open Discord" = "Open Discord";
+  "Twitter" = "Twitter";
+  "Buy me a coffee?" = "Buy me a coffee?";
+  "Paypal" = "Paypal";
+
+  "Help translating" = "Help translating";
+
+  "Respring" = "Respring";
+  "Reset All Settings" = "Reset All Settings";
+}
