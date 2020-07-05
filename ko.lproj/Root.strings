@@ -1,0 +1,34 @@
+{
+  "How CPUTool works" = "CPUTool이 작동하는 방식";
+  "If you set the values to 1.0, it means the max CPU power will be set to 1 percent of the stock state. Run Geekbench with 1 percent to confirm CPUTool works properly. There might be the lag if you set the low values. Please note that the value is MAX POWER, not the average power." = "값을 1.0으로 설정한다는 것은 최대 CPU 성능이 기존 상태에 대해 1 퍼센트로 설정된다는 것을 의미합니다. CPUTool이 제대로 작동하는 것을 확인하기 위해서 1 퍼센트 설정과 함께 Geekbench를 실행하세요. 만약 당신이 값을 낮게 설정한 경우 렉이 있을 수 있을 수 있습니다. 값이 평균 성능이 아닌 최대 성능이라는 것을 명심하세요.";
+
+  "Enable" = "활성화";
+  "On some device (such as iPhone XS and above), only CPU control works." = "몇몇 기기(iPhone XS 또는 상위)에서는 CPU 조정만 가능합니다.";
+
+  "Normal" = "일반";
+  "Max CPU Power" = "최대 CPU 성능";
+  "Max GPU Power" = "최대 GPU 성능";
+
+  "Low Power Mode" = "저전력 모드";
+  "CPU Power during LPM" = "LPM 시 CPU 성능";
+  "GPU Power during LPM" = "LPM 시 GPU 성능";
+
+  "Others (Respring)" = "Others (리스프링)";
+  "Enable Excluding Apps" = "앱 제외 활성화";
+  "Select apps to exclude..." = "제외할 앱 선택...";
+
+  "Extreme Mode" = "익스트림 모드";
+  "On some device (such as iPhone XS and above), maybe it is a little bit difficult to see the difference. If you cannot see the difference even though you set them to 0.1 and tried ldrestart (or reboot), enable this option. This option multiplies the normal settings' values by 0.1." = "몇몇 기기(iPhone XS 혹은 상위)에서는 차이를 보기 어려울 수 있습니다. 만약 값을 0.1로 조정함에도 불구하고 차이를 볼 수 없다면 값을 0.1로 설정하고 ldrestart 혹은 재시작을 시도하고 이 옵션을 활성화하세요. 이 옵션은 '일반' 설정 값을 0.1로 곱합니다.";
+
+  "Report Bugs or Contact" = "버그 제보 혹은 문의하기";
+  "Try resetting the settings before contacting me" = "문의하기 전에 설정을 초기화해보세요";
+  "Open Discord" = "Discord 열기";
+  "Twitter" = "Twitter";
+  "Buy me a coffee?" = "커피를 사주실건가요?";
+  "Paypal" = "Paypal";
+
+  "Help translating" = "번역 돕기";
+
+  "Respring" = "리스프링";
+  "Reset All Settings" = "모든 설정 초기화";
+}
