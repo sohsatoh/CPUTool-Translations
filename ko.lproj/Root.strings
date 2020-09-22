@@ -1,0 +1,33 @@
+{
+    "A bit slow" = "\Uc800\Uc18d \Ubaa8\Ub4dc";
+    "Buy me a coffee?" = "\Uac1c\Ubc1c\Uc790 \Ud6c4\Uc6d0";
+    "CPU Power during LPM" = "\Uc800\Uc804\Ub825 \Ubaa8\Ub4dc \Uc911 \Uce69\Uc14b \Ub3d9\Uc791 \Uac12";
+    CPUTool = "CPU \Uc870\Uc808";
+    "Easy Mode" = "\Uac04\Ud3b8 \Ubaa8\Ub4dc";
+    Enable = "\Ud65c\Uc131\Ud654";
+    "Enable Excluding Apps" = "\Uc571 \Uc608\Uc678 \Uc0ac\Uc6a9";
+    Extreme = "\Ucd5c\Ub300 \Ubaa8\Ub4dc";
+    "Extreme Mode" = "\Uadf9\Ub2e8\Uc801\Uc778 \Ubaa8\Ub4dc";
+    "GPU Power during LPM" = "\Uc800\Uc804\Ub825 \Ubaa8\Ub4dc \Uc911 \Uadf8\Ub798\Ud53d \Ub3d9\Uc791 \Uac12";
+    "Help translating" = "\Uc5b8\Uc5b4\Ud329\Uacfc \Ub3c4\Uc6c0";
+    "How CPUTool works" = "CPUTool \Ub3d9\Uc791 \Ubc29\Uc2dd";
+    "If you set the values to 1.0, it means the max CPU power will be set to 1 percent of the stock state. Run Geekbench with 1 percent to confirm CPUTool works properly. There might be the lag if you set the low values. Please note that the value is MAX POWER, not the average power." = "\Uac12\Uc744 1.0\Uc73c\Ub85c \Uc124\Uc815\Ud558\Uba74 \Ucd5c\Ub300 \Uc131\Ub2a5\Uc774 \Uc124\Uc815 \Uac12\Uc778 1%\Ub85c \Uc81c\Ud55c \Uc124\Uc815\Ub429\Ub2c8\Ub2e4. CPU Tool\Uc774 \Uc81c\Ub300\Ub85c \Uc791\Ub3d9\Ud558\Uace0 \Uc788\Ub294\Uc9c0 \Ud655\Uc778\Ud558\Ub824\Uba74 1% \Ub2e8\Uc704\Ub85c \Uc870\Uc808\Ud558\Uba70 Geekbench\Ub97c \Uc0ac\Uc6a9\Ud558\Uc5ec \Uccb4\Ud06c \Ud558\Uc2ed\Uc2dc\Uc624. \Ub0ae\Uc740 \Uac12\Uc744 \Uc124\Uc815\Ud558\Uba74 \Ud070 \Uc131\Ub2a5 \Uc800\Ud558\Ub85c \Ubb38\Uc81c\Uac00 \Ubc1c\Uc0dd\Ud560 \Uc218 \Uc788\Uc2b5\Ub2c8\Ub2e4. \Uac12\Uc740 \Ud3c9\Uade0 \Uc804\Ub825\Uc774 \Uc544\Ub2c8\Ub77c \Ucd5c\Ub300 \Ub3d9\Uc791 \Uac12\Uc785\Ub2c8\Ub2e4.";
+    "Low Power Mode" = "\Uc800\Uc804\Ub825 \Ubaa8\Ub4dc";
+    "Manual settings are ignored if you enable the easy mode." = "\Uac04\Ud3b8 \Ubaa8\Ub4dc\Ub97c \Ud65c\Uc131\Ud654\Ud558\Uba74 \Uae30\Ubcf8 \Ubaa8\Ub4dc\Uc758 \Uc218\Ub3d9 \Uc124\Uc815 \Uac12\Uc740 \Uc801\Uc6a9\Ub418\Uc9c0 \Uc54a\Uc2b5\Ub2c8\Ub2e4.";
+    "Max CPU Power" = "\Ucd5c\Ub300 \Uce69\Uc14b \Uc131\Ub2a5 \Ub3d9\Uc791 \Uac12";
+    "Max GPU Power" = "\Ucd5c\Ub300 \Uadf8\Ub798\Ud53d \Uc131\Ub2a5 \Ub3d9\Uc791 \Uac12";
+    Normal = "\Uae30\Ubcf8 \Ubaa8\Ub4dc";
+    "On some device (such as iPhone XS and above), maybe it is a little bit difficult to see the difference. If you cannot see the difference even though you set them to 0.1 and tried ldrestart (or reboot), enable this option. This option multiplies the normal settings' values by 0.1." = "\Uc77c\Ubd80 \Uc7a5\Uce58(\Uc608: iPhone XS \Uc774\Uc0c1)\Uc5d0\Uc11c\Ub294 \Ucc28\Uc774\Ub97c \Ud655\Uc778\Ud558\Uae30 \Uc5b4\Ub824\Uc6b8 \Uc218 \Uc788\Uc2b5\Ub2c8\Ub2e4. 0.1\Ub85c \Uc124\Uc815\Ud558\Uace0 ldrestart(\Ub610\Ub294 \Uc7ac\Ubd80\Ud305)\Ub97c \Uc2dc\Ub3c4\Ud588\Uc9c0\Ub9cc \Ucc28\Uc774\Uac00 \Ubcf4\Uc774\Uc9c0 \Uc54a\Uc73c\Uba74 \Uc774 \Uc635\Uc158\Uc744 \Ud65c\Uc131\Ud654\Ud569\Ub2c8\Ub2e4. \Uc774 \Uc635\Uc158\Uc740 \Uc77c\Ubc18 \Uc124\Uc815 \Uac12\Uc744 0.1\Ubc30 \Ub298\Ub9bd\Ub2c8\Ub2e4.";
+    "On some device (such as iPhone XS and above), only CPU control works." = "\Uc77c\Ubd80 \Uc7a5\Uce58(\Uc608: iPhone XS \Uc774\Uc0c1)\Uc5d0\Uc11c\Ub294 \Uce69\Uc14b \Uac12 \Uc81c\Uc5b4\Ub9cc \Uc791\Ub3d9\Ud569\Ub2c8\Ub2e4.";
+    "Open Discord" = "\Ub514\Uc2a4\Ucf54\Ub4dc \Uc571 \Uc5f4\Uae30";
+    "Others (Respring)" = "\Uae30\Ud0c0 (\Ub9ac\Uc2a4\Ud504\Ub9c1 \Ud544\Uc694)";
+    Paypal = "\Ud398\Uc774\Ud314";
+    "Report Bugs or Contact" = "\Ubc84\Uadf8 \Ubc0f \Ubb38\Uc758";
+    "Reset All Settings" = "\Ubaa8\Ub4e0 \Uc124\Uc815 \Uac12 \Ucd08\Uae30\Ud654";
+    Respring = "\Ub9ac\Uc2a4\Ud504\Ub9c1";
+    "Select apps to exclude..." = "\Uc608\Uc678 \Uc124\Uc815\Ud560 \Uc571 \Uc120\Ud0dd....";
+    Slow = "\Uadf9 \Uc800\Uc18d \Ubaa8\Ub4dc";
+    "Try resetting the settings before contacting me" = "\Uc5f0\Ub77d\Ud558\Uae30 \Uc804\Uc5d0 \Uc14b\Ud305 \Uac12\Uc744 \Ucd08\Uae30\Ud654 \Ud6c4 \Uc7ac\Uc2dc\Ub3c4 \Ud574 \Ubcf4\Uc138\Uc694.";
+    Twitter = "\Ud2b8\Uc704\Ud130";
+    title = "CPU \Uc870\Uc808";
+}

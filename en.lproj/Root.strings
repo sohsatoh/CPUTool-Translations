@@ -5,6 +5,12 @@
   "Enable" = "Enable";
   "On some device (such as iPhone XS and above), only CPU control works." = "On some device (such as iPhone XS and above), only CPU control works.";
 
+  "Easy Mode" = "Easy Mode";
+  "Manual settings are ignored if you enable the easy mode." = "Manual settings are ignored if you enable the easy mode.";
+  "A bit slow" = "A bit slow";
+  "Slow" = "Slow";
+  "Extreme" = "Extreme";
+
   "Normal" = "Normal";
   "Max CPU Power" = "Max CPU Power";
   "Max GPU Power" = "Max GPU Power";

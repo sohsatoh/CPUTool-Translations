@@ -5,6 +5,12 @@
     "Enable" = "有効化";
     "On some device (such as iPhone XS and above), only CPU control works." = "iPhone XS以上のデバイスなど、一部のデバイスではCPUの設定のみ反映されます。";
 
+    "Easy Mode" = "かんたんモード";
+    "Manual settings are ignored if you enable the easy mode." = "かんたんモードがオンの場合、他の設定は無視されます。";
+    "A bit slow" = "少し低速";
+    "Slow" = "低速";
+    "Extreme" = "最低速";
+
     "Normal" = "通常";
     "Max CPU Power" = "CPUの上限値";
     "Max GPU Power" = "GPUの上限値";
