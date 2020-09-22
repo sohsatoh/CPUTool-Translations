@@ -1,0 +1,33 @@
+{
+  "How CPUTool works" = "Como o CPUTool funciona";
+  "If you set the values to 1.0, it means the max CPU power will be set to 1 percent of the stock state. Run Geekbench with 1 percent to confirm CPUTool works properly. There might be the lag if you set the low values. Please note that the value is MAX POWER, not the average power." = "Se você definir os valores como 1,0, isso significa que a potência máxima da CPU será definida como 1% do estado de estoque. Execute o Geekbench com 1% para confirmar que o CPUTool funciona corretamente. Pode haver um atraso se você definir os valores baixos. Observe que o valor é MAX POWER, não a potência média.";
+
+  "Enable" = "Ativado";
+  "On some device (such as iPhone XS and above), only CPU control works." = "Em alguns dispositivos (como o iPhone XS e superior), apenas o controle da CPU funciona.";
+
+  "Normal" = "Normal";
+  "Max CPU Power" = "Potência máxima da CPU";
+  "Max GPU Power" = "Potência máxima da GPU";
+
+  "Low Power Mode" = "Modo de pouca energia";
+  "CPU Power during LPM" = "Potência da CPU durante o modo de baixa energia";
+  "GPU Power during LPM" = "Potência da GPU durante o modo de baixa energia";
+
+  "Others (Respring)" = "Outros (Respring)";
+  "Enable Excluding Apps" = "Ativar a exclusão de aplicativos";
+  "Select apps to exclude..." = "Selecione aplicativos para excluir...";
+
+  "Extreme Mode" = "Modo extremo";
+  "On some device (such as iPhone XS and above), maybe it is a little bit difficult to see the difference. If you cannot see the difference even though you set them to 0.1 and tried ldrestart (or reboot), enable this option. This option multiplies the normal settings' values by 0.1." = "Em alguns dispositivos (como o iPhone XS e superior), talvez seja um pouco difícil ver a diferença. Se você não conseguir ver a diferença, mesmo que você a defina como 0,1 e tente ldrestart (ou reinicie), ative esta opção. Esta opção multiplica os valores das configurações normais por 0,1.";
+
+  "Report Bugs or Contact" = "Relatar bugs ou contato";
+  "Try resetting the settings before contacting me" = "Tente redefinir as configurações antes de entrar em contato comigo";
+  "Open Discord" = "Abrir Discord";
+  "Twitter" = "Twitter";
+  "Buy me a coffee?" = "Me compre um café?";
+  "Paypal" = "Paypal";
+
+  "Help translating" = "Ajude a traduzir";
+
+  "Respring" = "Respring";
+  "Reset All Settings" = "Redefinir todos os ajustes
