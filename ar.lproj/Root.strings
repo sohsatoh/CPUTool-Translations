@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Buy me a coffee?</key>
+	<string>أشتري لي قهوة!</string>
+	<key>CPU Power during LPM</key>
+	<string>قوة الـCPU في وضع الطاقة المنخفض</string>
+	<key>Enable</key>
+	<string>تفعيل</string>
+	<key>Enable Excluding Apps</key>
+	<string>تمكين استبعاد التطبيقات (أيقاف)</string>
+	<key>Extreme Mode</key>
+	<string>الوضع طاقة القصوى</string>
+	<key>GPU Power during LPM</key>
+	<string>قوة الـGPU في وضع الطاقة المنخفض</string>
+	<key>Help translating</key>
+	<string>مساعدة ترجمة</string>
+	<key>How CPUTool works</key>
+	<string>:CPUTool كيف تعمل أداة</string>
+	<key>If you set the values to 1.0, it means the max CPU power will be set to 1 percent of the stock state. Run Geekbench with 1 percent to confirm CPUTool works properly. There might be the lag if you set the low values. Please note that the value is MAX POWER, not the average power.</key>
+	<string>إذا قمت بتعيين القيم إلى 1.0 فهذا يعني أنه سيتم تعيين الحد الأقصى لطاقة وحدة المعالجة المركزية (CPU) وهي 1 في المائة من حالة المخزون قم بتشغيل Geekbench بنسبة 1 في المائة للتأكد من عمل CPUTool بشكل صحيح قد يكون هناك تأخر إذا قمت بتعيين القيم المنخفضة يرجى ملاحظة القيمة هي الطاقة القصوى وليس متوسط الطاقة.</string>
+	<key>Low Power Mode</key>
+	<string>وضع الطاقة المنخفض</string>
+	<key>Max CPU Power</key>
+	<string>CPUالحد الأقصى للـ</string>
+	<key>Max GPU Power</key>
+	<string>GPUالحد الأقصى للـ</string>
+	<key>Normal</key>
+	<string>إعدادات:</string>
+	<key>On some device (such as iPhone XS and above), maybe it is a little bit difficult to see the difference. If you cannot see the difference even though you set them to 0.1 and tried ldrestart (or reboot), enable this option. This option multiplies the normal settings' values by 0.1.</key>
+	<string>على بعض الأجهزة (مثل iPhone XS والإصدارات الأحدث) ربما يكون من الصعب قليلاً رؤية الفرق إذا لم تتمكن من رؤية الفرق حتى لو قمت بتعيينها إلى 0.1 وحاولت ldrestart (أو إعادة التشغيل) فقم بتمكين هذا الخيار يضاعف هذا الخيار قيم الإعدادات العادية بمقدار 0.1.</string>
+	<key>On some device (such as iPhone XS and above), only CPU control works.</key>
+	<string>على بعض الأجهزة (مثل iPhone XS والإصدارات الأحدث) ، يعمل عنصر تحكم CPU فقط.</string>
+	<key>Open Discord</key>
+	<string>فتح برنامج الـDiscord</string>
+	<key>Others (Respring)</key>
+	<string>أخرى (ريسبرنج)</string>
+	<key>Paypal</key>
+	<string>دعم باي بال</string>
+	<key>Report Bugs or Contact</key>
+	<string>أرسال الأعطال والمراسلة</string>
+	<key>Reset All Settings</key>
+	<string>إعادة ضبط جميع الإعدادات</string>
+	<key>Respring</key>
+	<string>ريسبرنج (تشغيل سريع)</string>
+	<key>Select apps to exclude...</key>
+	<string>أختر التطبيقات لاستبعادها...</string>
+	<key>Try resetting the settings before contacting me</key>
+	<string>قم بـ إعادة ضبط إعدادات قبل مراسلتي</string>
+	<key>Twitter</key>
+	<string>حساب تويتر</string>
+</dict>
+</plist>
