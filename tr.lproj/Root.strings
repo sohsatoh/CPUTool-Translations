@@ -1,0 +1,40 @@
+{
+  "How CPUTool works" = "CPUTool Nasıl Çalışır?";
+  "If you set the values to 1.0, it means the max CPU power will be set to 1 percent of the stock state. Run Geekbench with 1 percent to confirm CPUTool works properly. There might be the lag if you set the low values. Please note that the value is MAX POWER, not the average power." = "Değerleri 1.0 olarak ayarlarsanız, bu, maksimum CPU gücünün stok durumunun yüzde 1'ine ayarlanacağı anlamına gelir. CPUTool'un düzgün çalıştığını doğrulamak için Geekbench'i yüzde 1 ile çalıştırın. Düşük değerleri ayarlarsanız gecikme olabilir. Değerin ortalama güç değil EN YÜKSEK GÜÇ olduğunu lütfen unutmayın.";
+
+  "Enable" = "Aktifleştir";
+  "On some device (such as iPhone XS and above), only CPU control works." = "Bazı Cihazlarda (iPhone XS ve Üstü Gibi), Yalnızca CPU Kontrolü Çalışır.";
+
+  "Easy Mode" = "Kolay mod";
+  "Manual settings are ignored if you enable the easy mode." = "Eğer kolay modu etkinleştirirseniz manual modlar etkisizleştirilecektir.";
+  "A bit slow" = "Biraz yavaş";
+  "Slow" = "Yavaş";
+  "Extreme" = "Aşırı";
+
+  "Normal" = "Normal";
+  "Max CPU Power" = "Yüksek CPU Gücü";
+  "Max GPU Power" = "Yüksek GPU Gücü";
+
+  "Low Power Mode" = "Düşük Güç Modu";
+  "CPU Power during LPM" = "Düşük Güç Modu Durumunda CPU";
+  "GPU Power during LPM" = "Düşük Güç Modu Durumunda GPU";
+
+  "Others (Respring)" = "Diğerleri (Respring)";
+  "Enable Excluding Apps" = "Uygulamaları Hariç Tutmayı Etkinleştir";
+  "Select apps to exclude..." = "Hariç Tutulacak Uygulamaları Seç...";
+
+  "Extreme Mode" = "Aşırı Mod";
+  "On some device (such as iPhone XS and above), maybe it is a little bit difficult to see the difference. If you cannot see the difference even though you set them to 0.1 and tried ldrestart (or reboot), enable this option. This option multiplies the normal settings' values by 0.1." = "Bazı cihazlarda (iPhone XS ve üstü gibi) farkı görmek biraz zor olabilir. 0.1'e ayarlamanıza ve ldrestart'ı (veya yeniden başlatmayı) denemenize rağmen farkı göremiyorsanız, bu seçeneği etkinleştirin. Bu seçenek normal ayarların değerlerini 0.1 ile çarpar.";
+
+  "Report Bugs or Contact" = "Hataları Bildir Veya İletişime Geç";
+  "Try resetting the settings before contacting me" = "Benimle İletişime Geçmeden Önce Ayarları Sıfırlamayı Deneyin";
+  "Open Discord" = "Discord'u Aç";
+  "Twitter" = "Twitter";
+  "Buy me a coffee?" = "Bana Bir Kahve Alır Mısın?";
+  "Paypal" = "Paypal";
+
+  "Help translating" = "Çevirmeye Yardım Et";
+
+  "Respring" = "Respring";
+  "Reset All Settings" = "Tüm Ayarları Sıfırla";
+}
