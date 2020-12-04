@@ -1,0 +1,34 @@
+{
+  "How CPUTool works" = "PHƯƠNG THỨC HOẠT ĐỘNG CỦA CPUTool";
+  "If you set the values to 1.0, it means the max CPU power will be set to 1 percent of the stock state. Run Geekbench with 1 percent to confirm CPUTool works properly. There might be the lag if you set the low values. Please note that the value is MAX POWER, not the average power." = "Nếu bạn đặt giá trị là 1.0, có nghĩa là sức mạnh tối đa của CPU bằng 1 phần trăm của sức mạnh gốc. Bạn có thể thử chạy Geekbench ở mức 1% để xác nhận CPUTool đã hoạt động. Bạn sẽ thấy độ lag khi đặt giá trị càng thấp. Nhớ rằng giá trị ở đây là giá SỨC MẠNH TỐI ĐA chứ không phải sức mạnh trung bình.";
+
+  "Enable" = "Bật";
+  "On some device (such as iPhone XS and above), only CPU control works." = "Trên một số thiết bị (như iPhone XS trở lên), chỉ có thể điều khiển CPU.";
+
+  "Normal" = "Thường";
+  "Max CPU Power" = "Sức mạnh CPU Tối đa";
+  "Max GPU Power" = "Sức mạnh GPU Tối đa";
+
+  "Low Power Mode" = "Chế độ tiết kiệm pin (LPM)";
+  "CPU Power during LPM" = "Sức mạnh CPU trong LPM";
+  "GPU Power during LPM" = "Sức mạnh GPU trong LPM";
+
+  "Others (Respring)" = "Khác (Respring)";
+  "Enable Excluding Apps" = "Bật Loại Trừ Ứng Dụng";
+  "Select apps to exclude..." = "Chọn ứng dụng cần loại trừ...";
+
+  "Extreme Mode" = "Chế độ Extreme";
+  "On some device (such as iPhone XS and above), maybe it is a little bit difficult to see the difference. If you cannot see the difference even though you set them to 0.1 and tried ldrestart (or reboot), enable this option. This option multiplies the normal settings' values by 0.1." = "Trên một số thiết bị (ví dụ như iPhone XS trở lên), có lẽ sẽ hơi khó một chút để thấy rõ sự khác biệt. Nếu bạn không thấy được sự khác biệt dù đã đặt giá trị là 0.1 và thử lệnh "ldrestart" (hoặc khởi động lại), hãy bật chế độ này. Nó sẽ nhân giá trị cài đặt thêm với 0.1.";
+
+  "Report Bugs or Contact" = "Báo cáo lỗi hoặc Liên hệ";
+  "Try resetting the settings before contacting me" = "Hãy thử đặt lại cài đặt trước khi liên hệ với tôi";
+  "Open Discord" = "Mở Discord";
+  "Twitter" = "Twitter";
+  "Buy me a coffee?" = "Mời tôi một tách cà phê nhé?";
+  "Paypal" = "Paypal";
+
+  "Help translating" = "Trợ giúp dịch thuật";
+
+  "Respring" = "Respring";
+  "Reset All Settings" = "Đặt lại cài đặt";
+}
