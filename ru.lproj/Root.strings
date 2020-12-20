@@ -1,0 +1,31 @@
+{
+  "How CPUTool works" = "Как работает CPUTool";
+  "If you set the values to 1.0, it means the max CPU power will be set to 1 percent of the stock state. Run Geekbench with 1 percent to confirm CPUTool works properly. There might be the lag if you set the low values. Please note that the value is MAX POWER, not the average power." = "Если вы установите значения на 1,0, это означает, что максимальная мощность процессора будет установлена на 1 процент от всей мощности. Запустите Geekbench с 1 процентом, чтобы убедиться, что CPUTool работает правильно. Может быть задержка, если вы установите низкие значения. Обратите внимание, что значение - это МАКСИМАЛЬНАЯ МОЩНОСТЬ, а не средняя.";
+
+  "Enable" = "Включить";
+  "On some device (such as iPhone XS and above), only CPU control works." = "На некоторых устройствах (например, iPhone XS и выше) работает только управление процессором.";
+
+  "Normal" = "Обычный режим";
+  "Max CPU Power" = "Максимальная мощность CPU";
+  "Max GPU Power" = "Максимальная мощность GPU";
+
+  "Low Power Mode" = "Энергосбережение";
+  "CPU Power during LPM" = "Мощность CPU в энергосбережении";
+  "GPU Power during LPM" = "Мощность GPU в энергосбережении";
+
+  "Others (Respring)" = "Прочее (требует respring)";
+  "Enable Excluding Apps" = "Отключить в приложениях"; // disable in apps
+  "Select apps to exclude..." = "Выберите приложения..."; // select apps
+
+  "Extreme Mode" = "Экстремальный режим";
+  "On some device (such as iPhone XS and above), maybe it is a little bit difficult to see the difference. If you cannot see the difference even though you set them to 0.1 and tried ldrestart (or reboot), enable this option. This option multiplies the normal settings' values by 0.1." = "На некоторых устройствах (таких как iPhone XS и выше), возможно, немного труднее увидеть разницу. Если вы не видите разницу, даже если вы установили их на 0,1 и попытались выполнить ldrestart (или перезагрузить телефон), включите эту опцию. Эта опция умножает значения нормальных настроек на 0,1.";
+
+  "Report Bugs or Contact" = "Сообщить об ошибках или связаться";
+  "Try resetting the settings before contacting me" = "Попробуйте сбросить настройки, прежде чем связаться со мной";
+  "Open Discord" = "Открыть Discord";
+  "Twitter" = "Twitter";
+  "Buy me a coffee?" = "Купите мене кофе?";
+  "Paypal" = "Paypal";
+  "Respring" = "Respring";
+  "Reset All Settings" = "Сбросить все настройки";
+}
